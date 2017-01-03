@@ -5,4 +5,5 @@ const { TRANSPILE_HTML, TRANSPILE_CSS } = require('./build/transpilers')
 module.exports = {
   TRANSPILE_HTML,
   TRANSPILE_CSS,
+  GIT_BRANCH: 'master',
 }
