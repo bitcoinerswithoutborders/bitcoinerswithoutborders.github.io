@@ -7,5 +7,6 @@ module.exports = {
     HTML: transpilers.PUG,
     CSS: transpilers.STYLUS,
   },
-  GIT_BRANCH: 'master',
+  GIT_BRANCH: 'gh-pages',
+  GIT_COMMAND: 'merge',
 }
